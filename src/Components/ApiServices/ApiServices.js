@@ -1,5 +1,9 @@
 import axios from "axios";
+<<<<<<< HEAD
 const BASE_URL="http://localhost:5000"
+=======
+const BASE_URL="https://6-m-be-project-skill-hunt-5fx8.vercel.app"
+>>>>>>> 93f2eac28812339b5bbc6b05c8b2887e7d8280a6
 
 class ApiServices{
     getToken(){
